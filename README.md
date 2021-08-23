@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [here](https://jjjune0304.github.io/#projects)
 
-- 📄 Know more about me through [resume](https://drive.google.com/file/d/11l8OaM0qLdltg1Y3ppBDuW70IKbb0-if/view)
+- 📄 Know more about me through [my page](https://jjjune0304.github.io/)
 
 
 <h2 align="left">Skills</h2>
